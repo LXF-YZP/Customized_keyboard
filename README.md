@@ -10,7 +10,7 @@
 目录结构：  
 >+ bom 元器件表  
 >+ case 外壳图纸  
->+ config 固件文件,支持via改键  
+>+ config 固件文件,支持via改键，解压kafka.zip之后，直接放到qmk的keyboards目录下就可以编译生成hex文件，或者直接使用文件夹中的hex文件  
 >+ gerber 制作pcb要上传到立创的压缩文件  
 >+ location_plate 配列文件  
 >+ pcb pcb原理图  
