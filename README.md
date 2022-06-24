@@ -16,3 +16,6 @@
 >+ pcb pcb原理图  
 >+ photo 键盘渲染图，真实图  
 >+ screw 螺丝  
+>+ acrylic_shell 亚克力外壳图纸
+
+更新田字68的亚克力外壳图纸
