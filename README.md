@@ -1,6 +1,5 @@
 客制化键盘制作，pcb单模无灯，外壳树脂打印
-<details><summary>打字音在B站有分享</summary>https://www.bilibili.com/video/BV1YA4y1Z7aT?spm_id_from=333.999.0.</details>
-<!-- hello-->
+<!-- <details><summary>打字音在B站有分享</summary>https://www.bilibili.com/video/BV1YA4y1Z7aT?spm_id_from=333.999.0.</details> -->
 轴体没有润,轴下垫没有加,夹心棉和底棉都有;
 更新完固件之后，支持via改键
 
