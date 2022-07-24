@@ -27,14 +27,23 @@
 
 ## 配列图
 
+##### 68配列
 + master分支的68配列如下图所示：
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/68%E9%85%8D%E5%88%97.png)
 
 + 下列68配列为个人的一些改动：
+该配列的配套pcb和外壳还未画好，不过后期都会更新好；
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/68vim%E9%85%8D%E5%88%97.png)
 
+
+##### hhkb配列
 + hhkb分支的配列如下图：
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/hhkb.png)
 
 + 下列类hhkb配列为个人的一些改动：
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/hhkbvim.png)
+>> 以上两个配列共用一套pcb和外壳而且已经画好上传到相关文件夹中；pcb是包含两个pcb的gerber文件的，一个是未开槽的pcb只是类hhkb配列的；一个是已经开槽的pcb，这个pcb就是上面说的兼容两个配列的pcb，而且是分离小板的；
+
+##### Alice配列
++ 下面配列是Alice配列：
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/hhkbvim.png)
