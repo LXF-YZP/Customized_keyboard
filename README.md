@@ -25,6 +25,15 @@
 ## PCB说明
 >>田字68pcb文件中只有无灯无开槽的是适配了3D打印外壳和亚克力堆叠外壳的；田字68的其他pcb还没有适配外壳，其实适配外壳也很简单，无灯的pcb直接修改一下外壳的type-c口即可，有灯的pcb需要在方向键上方开一个适当大小的铭牌口即可。最后解释一下为什么田字68要画这么多pcb的原因，有以下几个原因，pcb开槽和不开槽在手感上有很大差别的，开槽的会更加软弹，不开槽的手感会偏硬一点，gasket结构配上开槽pcb会更加软弹，至于pcb横开槽和全开槽在手感方面也有区别，所以制作了多个pcb，本人对轴灯无感，一是光污染（尤其晚上关灯之后），二是画pcb电路图很麻烦（画过一次再也不想画了，玩亚克力的可能会喜欢轴灯），但是本人对氛围灯很有好感，所以有开槽的pcb都有氛围灯。
 
+## 配列图
 
++ master分支的68配列如下图所示：
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/68%E9%85%8D%E5%88%97.png)
++ 下列68配列为个人的一些改动：
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/68vim%E9%85%8D%E5%88%97.png)
+
++ 下列68配列为个人的一些改动：
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/68%E9%85%8D%E5%88%97.png)
+
++ 下列68配列为个人的一些改动：
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/68%E9%85%8D%E5%88%97.png)
