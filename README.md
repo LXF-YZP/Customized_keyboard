@@ -29,11 +29,12 @@
 
 + master分支的68配列如下图所示：
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/68%E9%85%8D%E5%88%97.png)
+
 + 下列68配列为个人的一些改动：
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/68vim%E9%85%8D%E5%88%97.png)
 
-+ 下列68配列为个人的一些改动：
-![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/68%E9%85%8D%E5%88%97.png)
++ hhkb分支的配列如下图：
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/hhkb.png)
 
-+ 下列68配列为个人的一些改动：
-![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/68%E9%85%8D%E5%88%97.png)
++ 下列类hhkb配列为个人的一些改动：
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/hhkbvim.png)
