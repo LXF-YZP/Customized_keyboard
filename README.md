@@ -47,3 +47,12 @@
 ##### Alice配列
 + 下面配列是Alice配列：
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/Alice.png)
+
+##### 40配列
+
++ 40配列如下图
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/hhkb.png)
+
++ 下列40配列为个人的一些改动：
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/hhkbvim.png)
+>> 以上两个配列共用一套pcb和外壳而且已经画好上传到相关文件夹中；
