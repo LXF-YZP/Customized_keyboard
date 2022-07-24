@@ -46,4 +46,4 @@
 
 ##### Alice配列
 + 下面配列是Alice配列：
-![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/hhkbvim.png)
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/Alice.png)
