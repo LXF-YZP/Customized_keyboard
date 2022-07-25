@@ -61,6 +61,6 @@
 
 +这里多说两句，这个配列最初是在B站看到别人发的一个pcb动态，第一眼感觉很惊艳，所以就自己设计了一款，设计的初衷是送一个朋友的，所以pcb设计的时候走线规整了很多，看着还是比较好看的，由于自己打板子的时候没有选择沉金，所以走线得仔细看才能看出好不好看，要是用沉金的话，就可以把走线都体现出来了，奈何沉金太贵了，要是开团的话选沉金还是不错的。
 
-![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/40%E9%85%8D%E5%88%97.png)
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/73%E9%85%8D%E5%88%97.png)
 
-![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/40%E9%85%8D%E5%88%97.png)
+这个配列开源的pcb和外壳还有固件都是自己最初设计的一版，实际送朋友的那一版pcb会开源，但是外壳不会开源，因为送朋友的外壳有很多是她自己喜欢的一些元素，所以不开源外壳。但是我有时间会再设计一款外壳。
