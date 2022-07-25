@@ -56,3 +56,11 @@
 + 下列40配列为个人的一些改动：
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/40vim%E9%85%8D%E5%88%97.png)
 >> 以上两个配列共用一套pcb和外壳而且已经画好上传到相关文件夹中；
+
+##### 73配列
+
++这里多说两句，这个配列最初是在B站看到别人发的一个pcb动态，第一眼感觉很惊艳，所以就自己设计了一款，设计的初衷是送一个朋友的，所以pcb设计的时候走线规整了很多，看着还是比较好看的，由于自己打板子的时候没有选择沉金，所以走线得仔细看才能看出好不好看，要是用沉金的话，就可以把走线都体现出来了，奈何沉金太贵了，要是开团的话选沉金还是不错的。
+
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/40%E9%85%8D%E5%88%97.png)
+
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/40%E9%85%8D%E5%88%97.png)
