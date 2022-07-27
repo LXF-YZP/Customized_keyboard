@@ -64,3 +64,6 @@
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/73%E9%85%8D%E5%88%97.png)
 
 >> 这个配列开源的pcb和外壳还有固件都是自己最初设计的一版，实际送朋友的那一版pcb会开源，但是外壳不会开源，因为送朋友的外壳有很多是她自己喜欢的一些元素，所以不开源外壳。但是我有时间会再设计一款外壳。
+
+
+目前40配列的固件还没有编写，Alice配列的外壳还没有画。
