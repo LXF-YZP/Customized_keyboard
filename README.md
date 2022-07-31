@@ -68,3 +68,10 @@
 
 田字68全开槽不带分离小板的外壳已经更新，在case文件夹里面的case/田字68底壳.stl文件，其他部分的stl文件是通用的；固件在config/tiankafka_via.hex, via文件在config/tian_kafka_via.json
 目前40配列和hhkb兼容配列的固件还没有编写，Alice配列的外壳还没有画。alice 配列图纸画好之后会上传；
+
+
+##### pad
+
++ pad如下图
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/pad.png)
+pad使用的芯片为stm32f103,可以使用apm替代，该pad为了验证芯片电路图是否使用正确所画，当前状态为未打板，建议等我打板验证之后再使用。
