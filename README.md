@@ -73,5 +73,7 @@
 ##### pad
 
 + pad如下图
+
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/pad.png)
+
 pad使用的芯片为stm32f103,可以使用apm替代，该pad为了验证芯片电路图是否使用正确所画，当前状态为未打板，建议等我打板验证之后再使用。
