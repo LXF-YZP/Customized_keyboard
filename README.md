@@ -7,9 +7,18 @@
 轴体没有润,轴下垫没有加,夹心棉和底棉都有;
 更新完qmk固件之后，支持 VIA 实时改键，全键无冲。
 
->>项目目前有三个分支，一个是master分支，该分支是田字68的键盘数据。
->>另外一个分支是alice分支，该分支是Alice配列键盘数据。
->>还有一个分支是hhkb分支，Alice和hhkb分支pcb已经画好了，也打样了，但是外壳还没有画好，因为还没看到一个喜欢的类型，Alice和hhkb外壳后续会补充完整，后续还会不定时更新各个配列键盘的外壳。
+## 项目目前有八个分支
+>+ master分支： 该分支是田字68的键盘数据。
+>+ alice分支：  该分支是Alice配列键盘数据。
+>+ hhkb分支：该分支是hhkb配列键盘数据。  
+>+ forty_arrangement分支：该分支是40配列键盘数据。  
+>+ keypad_frame分支： 键盘支架。 
+>+ pad分支： 数字小键盘配列数据。 
+>+ seventy_three_arrangement：该分支为73配列键盘数据。
+>+ sixty_eight_vim：该分支是68配列键盘数据。（方向键在最下面一排）  
+
+
+
 
 ## 目录结构：  
 >+ bom 元器件表  
@@ -18,7 +27,7 @@
 >+ gerber 制作pcb要上传到立创的压缩文件  
 >+ location_plate 配列文件  
 >+ pcb pcb原理图  
->+ photo 键盘渲染图，真实图  
+>+ photo 键盘渲染图，实物图  
 >+ screw 螺丝  
 >+ acrylic_shell 亚克力外壳图纸
 
