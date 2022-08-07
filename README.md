@@ -4,7 +4,7 @@
 至于更便宜的apm32芯片，仿照的stm32芯片画了一个apm32的pcb图，用于制作pad，刚打样还没有制作完成。
 客制化键盘制作，pcb单模无灯，外壳树脂打印。
 <!-- <details><summary>打字音在B站有分享</summary>https://www.bilibili.com/video/BV1YA4y1Z7aT?spm_id_from=333.999.0.</details> -->
-轴体没有润,轴下垫没有加,夹心棉和底棉都有;
+<!--轴体没有润,轴下垫没有加,夹心棉和底棉都有;-->
 更新完qmk固件之后，支持 VIA 实时改键，全键无冲。
 
 + 目前40配列和hhkb兼容配列的固件还没有编写；
