@@ -95,6 +95,6 @@ pad使用的芯片为stm32f103,可以使用apm替代，该pad为了验证芯片�
 
 + 75配列如下图
 
-![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/pad.png)
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/WechatIMG220.png)
 
 75配列使用的芯片为stm32f103,可以使用apm替代，当前pcb还未打板验证，亚克力外壳还没制作，3D打印外壳也还未制作。
