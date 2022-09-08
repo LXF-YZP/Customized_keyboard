@@ -119,6 +119,7 @@ pad使用的芯片为stm32f103,可以使用apm替代，该pad为了验证芯片�
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/68vimt.png)
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/73pcb.png)
 该73配列pcb不会开源；
+
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/75pcb.png)
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/75pcb%E6%A8%AA.png)
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/Alicepcb.png)
