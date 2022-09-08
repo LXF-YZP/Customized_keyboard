@@ -110,3 +110,18 @@ pad使用的芯片为stm32f103,可以使用apm替代，该pad为了验证芯片�
 79配列使用的芯片为stm32f103,可以使用apm替代，pcb有全开槽也有横开槽，当前pcb还未打板验证，亚克力外壳还没制作，3D打印外壳也还未制作。
 
 ## 其他配列的pcb图纸有时间再上传吧，其他配列的pcb也有横开槽和全开槽的，部分pcb有竖开槽的。
+
+
+
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/40pcb.png)
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/68t.png)
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/68tian.png)
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/68vimt.png)
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/73pcb.png)
+该73配列pcb不会开源；
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/75pcb.png)
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/75pcb%E6%A8%AA.png)
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/Alicepcb.png)
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/hhkbpcb.png)
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/hhkbvimpcb.png)
+
