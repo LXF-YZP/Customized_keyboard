@@ -104,6 +104,7 @@ pad使用的芯片为stm32f103,可以使用apm替代，该pad为了验证芯片�
 
 + 79配列如下图
 
-![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/EF22CB8B-EC3E-45BF-823C-BF3540EE5807.png)
-
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/79.png)
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/205E5F6D-7887-4CE3-A03D-32DB3699E1A3.png)
+![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/8BCFE564-EC59-4EC9-B64A-492B4F4E385B.png)
 79配列使用的芯片为stm32f103,可以使用apm替代，pcb有全开槽也有横开槽，当前pcb还未打板验证，亚克力外壳还没制作，3D打印外壳也还未制作。
