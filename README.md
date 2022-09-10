@@ -118,7 +118,13 @@ pad使用的芯片为stm32f103,可以使用apm替代，该pad为了验证芯片�
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/40pcb.png)
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/68t.png)
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/68tian.png)
+
+暂时未适配外壳
+
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/68vimt.png)
+
+暂时未适配外壳
+
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/73pcb.png)
 该73配列pcb不会开源；
 
