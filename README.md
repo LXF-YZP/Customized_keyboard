@@ -104,7 +104,7 @@ pad使用的芯片为stm32f103,可以使用apm替代，该pad为了验证芯片�
 
 + 79配列如下图
 
-![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/79.png)
+![image]()
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/205E5F6D-7887-4CE3-A03D-32DB3699E1A3.png)
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/8BCFE564-EC59-4EC9-B64A-492B4F4E385B.png)
 ![image](https://github.com/LXF-YZP/Customized_keyboard/blob/master/photo/79.jpg)
